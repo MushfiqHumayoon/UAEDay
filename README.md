@@ -1,7 +1,7 @@
 # Celebrate 52nd National Day of UAE 🇦🇪
 
 ## Overview
-This SwiftUI project is a celebration of the UAE's 52nd National Day. It showcases a dynamic display of fireworks and a waving flag, creating a vibrant and patriotic experience.
+This SwiftUI project celebrates the UAE's 52nd National Day with a waving flag and dynamic fireworks with background sound, creating an immersive and festive experience.
 
 ## Features
 - **Fireworks**: Experience a visually stunning fireworks display that lights up the screen in celebration.
