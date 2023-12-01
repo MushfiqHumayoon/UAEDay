@@ -6,6 +6,7 @@ This SwiftUI project is a celebration of the UAE's 52nd National Day. It showcas
 ## Features
 - **Fireworks using Core Animation**: Experience a visually stunning fireworks display that lights up the screen in celebration.
 - **Waving Flag Animation with Metal**: Enjoy an animated flag waving proudly in the wind.
+- **Background Music**: Immerse yourself in the celebration with background music that adds to the festive mood.
 
 ## Screenshots
 <p align="center">
