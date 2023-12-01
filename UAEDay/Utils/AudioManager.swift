@@ -17,7 +17,7 @@ class AudioManager: NSObject, ObservableObject {
         guard let url = Bundle.main.url(forResource: "firework", withExtension: "mp3") else { return }
         do {
             audioPlayer = try AVAudioPlayer(contentsOf: url)
-            audioPlayer?.numberOfLoops = -1 //0 // For continuous looping
+            audioPlayer?.numberOfLoops = 10 //0 // For continuous looping
             audioPlayer?.delegate = self
             audioPlayer?.play()
         } catch {
