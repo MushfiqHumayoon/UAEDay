@@ -1,0 +1,31 @@
+# UAE 52nd National Day Celebration 🇦🇪
+
+## Overview
+This SwiftUI project is a celebration of the UAE's 52nd National Day. It showcases a dynamic display of fireworks and a waving flag, creating a vibrant and patriotic experience.
+
+## Features
+- **Fireworks using Core Animation**: Experience a visually stunning fireworks display that lights up the screen in celebration.
+- **Waving Flag Animation with Metal**: Enjoy an animated flag waving proudly in the wind.
+
+## Screenshots
+<p align="center">
+  <img src="https://github.com/MushfiqHumayoon/UAEDay/blob/main/Screens/Screen0.png" alt="App Screenshot" width="300">
+  <img src="https://github.com/MushfiqHumayoon/UAEDay/blob/main/Screens/Screen2.png" alt="App Screenshot" width="300">
+</p>
+
+## How to Run
+1. Clone the repository.
+2. Open the project in Xcode.
+3. Build and run the app on an iOS device or simulator.
+
+## Additional Notes
+- This project utilizes SwiftUI for the overall UI structure.
+- Core Animation provides the fireworks effects.
+- Metal framework powers the realistic waving flag animation.
+- Developers can explore the codebase to understand and potentially enhance the fireworks or flag animations.
+
+## Credits
+- The waving flag animation is inspired by www.hackingwithswift.com
+- Fireworks effects are adapted from https://www.fireworksapp.xyz
+
+Celebrate the UAE's 52nd National Day with this immersive SwiftUI experience, featuring dazzling fireworks and a proud waving flag!🇦🇪
