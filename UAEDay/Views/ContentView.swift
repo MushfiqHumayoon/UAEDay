@@ -9,7 +9,6 @@ import SwiftUI
 
 struct ContentView: View {
 
-//    @ObservedObject var audioManager = AudioManager()
     @StateObject var audioManager = AudioManager()
     @State var isPlayed = false
 
