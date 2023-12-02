@@ -12,6 +12,7 @@ This SwiftUI project celebrates the UAE's 52nd National Day with a waving flag a
 <p align="center">
   <img src="https://github.com/MushfiqHumayoon/UAEDay/blob/main/Screens/Screen0.png" alt="App Screenshot" width="300">
   <img src="https://github.com/MushfiqHumayoon/UAEDay/blob/main/Screens/Screen2.png" alt="App Screenshot" width="300">
+  <img src="https://github.com/MushfiqHumayoon/UAEDay/blob/main/Screens/Screen.gif" alt="App Screenshot" width="300">
 </p>
 
 ## How to Run
